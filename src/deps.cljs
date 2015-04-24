@@ -1,4 +1,4 @@
-{:foreign-libs [{:file "osmtogeojson/osmtogeojson"
+{:foreign-libs [{:file "osmtogeojson/osmtogeojson.js"
                  :file-min "osmtogeojson/osmtogeojson.js"
-                 :provides ["osmtogeojson"]}
+                 :provides ["osmtogeojson"]}]
  :externs ["osmtogeojson-externs.js"]}
