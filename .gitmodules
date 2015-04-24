@@ -1,0 +1,3 @@
+[submodule "src/osmtogeojson"]
+	path = src/osmtogeojson
+	url = https://github.com/tyrasd/osmtogeojson
