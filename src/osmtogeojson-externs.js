@@ -1,1 +1,1 @@
-var osmtogeojson = function();
+var osmtogeojson = function() {};
