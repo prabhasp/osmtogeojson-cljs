@@ -1,4 +1,4 @@
-(defproject prabhasp/osmtogeojson-cljs "2.2.5-SNAPSHOT"
+(defproject prabhasp/osmtogeojson-cljs "2.2.5-1"
  :description "osmtogeojson"
  :url "https://github.com/tyrasd/osmtogeojson"
  :license {:name "Eclipse Public License"
